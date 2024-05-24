@@ -25,7 +25,7 @@ I am a software Developer par excellence, orchestrating symphonies of code to cr
 
 <div align="center" >
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-suna-83a311222)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/poojasunaa)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojasuna.2001@gmail.com) 
 </div>
@@ -35,7 +35,7 @@ I am a software Developer par excellence, orchestrating symphonies of code to cr
 <div align="center"  >
 <img src="https://github-readme-stats.vercel.app/api?username=pooja-suna25&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="pooja-suna25's GitHub Stats" width="400" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja-suna25&theme=radical&hide_border=true" alt="pooja-suna25's GitHub Stats" width="420" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-suna25&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="pooja-suna25's GitHub Stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-suna25&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="pooja-suna25's GitHub Stats" width="355" />
 
 </div>
 
